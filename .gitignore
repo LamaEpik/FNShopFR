@@ -126,3 +126,4 @@ dmypy.json
 
 # Api key
 configuration.json
+config.py
