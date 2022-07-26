@@ -1,18 +1,18 @@
-# Spanish Fortnite Shop
+# FNShopFR
 
-## Creador Original
+## Créateur Original
 
-Todo el mérito del bot al creador original: [EthanC](https://github.com/EthanC/Athena). Yo solo lo he querido traducir y modificar algunas cosas que no estaban hechas para que más gente pueda usarla ^^
+Tout le mérite reviens au créateur original: [gomashio1596](https://github.com/gomashio1596/Fortnite-ShopBot-v2). J'ai traduit les textes, ajouté la police de Fortnite et surtout la possibilité de publier la boutique sur Twitter !
 
-## Bot de la Tienda de Objetos para Twitter
+## Bot qui publie la boutique d'objet de Fortnite du jour sur Twitter
 
-Este bot tiene la función de usar la API de Fortnite-API y crear una imagen de la Tienda de Objetos actual para así, publicarla en Twitter
-
-Un ejemplo sería el siguiente:
+Le bot utilise l'api de [FortniteApi.io](https://fortniteapi.io/) pour générer une image de la boutique du jour (shop.jpg), puis la poste sur Twitter avec le texte désiré. 
 
 <p align="center">
-    <img src="https://cdn.discordapp.com/attachments/849449923514466324/852593350955892756/itemshop.png" width="650px" draggable="true">
+    <img src="https://i.imgur.com/8jAPNMZ.jpg" width="650px" draggable="true">
 </p>
+
+
 
 ## Requisitos Previos
 
