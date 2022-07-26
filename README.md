@@ -14,15 +14,17 @@ Le bot utilise l'api de [FortniteApi.io](https://fortniteapi.io/) pour générer
 
 
 
-## Requisitos Previos
-
-Para instalar esto debes tener Python en tu máquina (Windows, Linux, etc.). El como instalarlo ya es algo más complejo, así que te recomiendo buscar tutoriales (Si lo escribo yo, al final saldrá mal jaja). Aquí los requisitos:
-
-- [Python 3.7](https://www.python.org/downloads/)
-- [Requests](http://docs.python-requests.org/en/master/user/install/)
-- [coloredlogs](https://pypi.org/project/coloredlogs/)
-- [Pillow](https://pillow.readthedocs.io/en/stable/installation.html#basic-installation)
-- [python-twitter](https://github.com/bear/python-twitter#installing)
+## Prérequis
+Pour une utilisation locale sur son pc :
+- [Python](https://www.python.org/downloads/)
+- Le fichier "install.bat" devrait normalement installé automatiquement les logiciels suivants, néanmoins si ça ne fonctionne pas :
+    - [Requests](http://docs.python-requests.org/en/master/user/install/)
+    - [Pillow](https://pillow.readthedocs.io/en/stable/installation.html#basic-installation)
+    - [Tweepy](https://docs.tweepy.org/en/stable/install.html)
+	
+Pour une utilisation en ligne (lancer automatiquement le bot à l'heure de la boutique) :
+- [Compte Heroku](https://heroku.com)
+- [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli#download-and-install)
 
 ## Como usarlo
 
