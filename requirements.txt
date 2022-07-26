@@ -1,5 +1,0 @@
-Requests
-coloredlogs
-Pillow
-python-twitter
-tweepy
