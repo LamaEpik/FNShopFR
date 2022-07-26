@@ -1,0 +1,10 @@
+{
+    "fonts": {
+        "ja": "NotoSansJP-Bold.otf",
+        "ko": "NotoSansKR-Regular.otf",
+        "other": "BurbankBigRegularBlack.otf"
+    },
+    "lang": "fr",
+    "api_key": "XXXXXXXXX",
+    "max_section_count": 9
+}
